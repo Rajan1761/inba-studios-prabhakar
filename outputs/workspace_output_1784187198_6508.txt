@@ -1,0 +1,20 @@
+  [49] a "Blog" -> #blog
+  [50] a "Equipment" -> #equipment
+  [51] a "+91 99864 31991" -> tel:+919986431991
+  [52] a "inbastudios@gmail.com" -> mailto:inbastudios@gmail.com
+  [53] a "Book a Shoot" -> #book
+  [54] a "Facebook" -> https://facebook.com/inbastudios
+  [55] button
+  [56] input type="text"
+  [57] button
+  [58] button
+
+Accessibility tree:
+Page text: INBA STUDIOS · LOADING REEL INBA·STUDIOS Prabhakar Inbalagan HOME ABOUT JOURNEY SERVICES PORTFOLIO SHOWREEL AWARDS BLOG BOOK A SHOOT REC · WEDDING · DRONE · WILDLIFE · COMMERCIAL CREATIVE PHOTOGRAPHER · CINEMATOGRAPHER · DRONE PILOT Capturing Stories. Creating Emotions. Framing Forever. WEDDING · CINEMATOGRAPHY · DRONE · WILDLIFE · COMMERCIAL · FILM PRODUCTION VIEW PORTFOLIO WATCH SHOWREEL BOOK A SHOOT RESUME SCROLL 10+ YEARS ABOUT THE ARTIST A Storyteller Behind The Lens Creative photographer and videographer with extensive experience in photography, cinematography, content production, and channel management. I'm Prabhakar Inbalagan — a Chennai-based creative director who has spent over a decade framing light, motion and emotion. From leading shoots and managing YouTube content to operating drones for aerial cinematography, my work lives where technical precision meets visual storytelling. My journey spans weddings, commercial projects, wildlife, and digital media — always chasing that one frame that makes a viewer feel something they can't quite name. This is more than a portfolio. It's a reel of moments I've been honoured to capture. 0+ YEARS EXPERIENCE 0+ PROJECTS COMPLETED 0+ HAPPY CLIENTS 0 AWARDS 0+ DRONE HOURS MY JOURNEY A Career In Motion Drag through the storyboard of a career that evolved from site supervision to head cameraman, business leadership, and cinema. Unisys Service Support Executive 9 Months SVP Enterprises Site Supervisor 2.5 Years Foto Farmers Business Partner Photography Natwin Photography Mentor Marketing Head 2021 — Present Head Cameraman Dan Jr Channel Inba Studios Business Head Studio Lead Cinema Movies Actor · DOP ← DRAG · CLICK A NODE TO OPEN THE STORY → × Year Role Company Description WHAT I CREATE Premium Services From intimate weddings to large-scale film production — a full spectrum of cinematic services crafted with obsessive attention to detail. 01 Wedding Photography Timeless frames capturing every vow, glance and celebration wi
+
+Errors: Console Errors (1):
+   • Failed to load resource: the server responded with a status of 404 (File not found) (http://localhost:8000/favicon.ico:0)
+
+Screenshot: /workspace/.screenshots/step_000.png
+Use see-image to view: /workspace/.screenshots/step_000.png
+=== END ===
