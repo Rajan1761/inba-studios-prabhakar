@@ -1,0 +1,9 @@
+total 172
+drwxr-xr-x  6 user user   4096 Jul 16 07:03 .
+drwxr-xr-x 20 root root   4096 Jun 22 03:39 ..
+drwxr-xr-x  4 user user   4096 Jun 19 10:20 .agent_hooks
+drwxr-xr-x 10 root root   4096 Jul 16 07:03 .browser_data
+drwxr-xr-x  3 root root   4096 Jun 22 03:37 .psiphon_data
+-rw-r--r--  1 root root 149118 Jul 16 07:02 Prabhakar_(1).pdf
+drwxr-xr-x  2 root root   4096 Jul 16 07:03 outputs
+Prabhakar_(1).pdf: PDF document, version 1.4, 2 pages
